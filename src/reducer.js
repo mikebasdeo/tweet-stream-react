@@ -1,6 +1,6 @@
 import { combineReducers } from 'redux';
 
-const tweets = (tweets = [], action) => {
+const tweets = (tweets = [1,2,3,'hello'], action) => {
   return tweets;
 };
 
